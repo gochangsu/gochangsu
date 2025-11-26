@@ -1,5 +1,5 @@
 <h2> Hi, I'm Go Changsu </h2>
-<img align='right' src="github.com/gochangsu/goportfolio/tree/master/img/7211_100.jpg" width="230">
+<img align='right' src="https://www.github.com/gochangsu/goportfolio/tree/master/img/7211_100.jpg" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
