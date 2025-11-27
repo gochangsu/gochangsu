@@ -29,8 +29,6 @@ const Go = {
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href = "https://www.innoxamc.com"> INNOXAMC </a>
 - 🌱 I’m currently learning Artificial Intelligence Studies in <a href = "https://www.iscu.ac.kr"> SCU </a>
 - 👯 I’m looking to collaborate on ...
