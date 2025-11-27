@@ -20,7 +20,7 @@ const Go = {
                         construction: "Project Management",
                         Electric: "Engineer",
                         Infra Structure in Factory: "Group Manager"
-                      },
+                      }
  challenge: "I am studying artificial intelligence while working at a company"
 }
 ```
