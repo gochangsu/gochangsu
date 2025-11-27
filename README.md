@@ -1,10 +1,12 @@
 <h2> Hi, I'm Go Changsu </h2>
-<img align='right' src="https://raw.githubusercontent.com/gochangsu/goportfolio/master/img/7211_100.png" width="180">
+<img align='right' src="https://raw.githubusercontent.com/gochangsu/goportfolio/master/img/7211_100.png" width="280">
 <p><em>Data Science Engineer wanna be</br>
 </em></p>
 
 [![Linkedin: github](https://img.shields.io/badge/-gochangsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/gochangsu?tab=followers)](https://github.com/gochangsu?tab=followers)
 [![GitHub gochangsu](https://img.shields.io/github/followers/gochangsu?label=follow&style=social)](https://github.com/gochangsu)
+
+
 
 ### A little more about me...  
 
@@ -19,11 +21,11 @@ const Go = {
                         Electric: "Engineer",
                         Infra Structure in Factory: "Group Manager"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am studying artificial intelligence while working at a company"
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>We all came from the universe</b>, I believe that, and <b>everything will eventually return to it as dust!</b> </em>
 
 ---
 
