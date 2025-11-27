@@ -1,5 +1,5 @@
 <h2> Hi, I'm Go Changsu </h2>
-<img align='right' src="https://raw.githubusercontent.com/gochangsu/goportfolio/master/img/7211_100.png" width="280">
+<img align='right' src="https://raw.githubusercontent.com/gochangsu/goportfolio/master/img/7211_100.png" width="260">
 <p><em>Data Science Engineer wanna be</br>
 </em></p>
 
