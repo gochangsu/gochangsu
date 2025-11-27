@@ -31,10 +31,10 @@ const Go = {
 
 - 🔭 I’m currently working on <a href = "https://www.innoxamc.com"> INNOXAMC </a>
 - 🌱 I’m currently learning Artificial Intelligence Studies in <a href = "https://www.iscu.ac.kr"> SCU </a>
+- 😄 Pronouns: he, his
+- 💬 How to reach me: <a href = "https://gochangsu.github.io"> github </a>
+- 📫 Ask me about: gcs00gm@gmail.com  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything by email and etc.
-- 📫 How to reach me: gcs00gm@gmail.com  <a href = "https://gochangsu.github.io"> github </a>
-- 😄 Pronouns: he, his
 - ⚡ Fun fact: ...
 -->
